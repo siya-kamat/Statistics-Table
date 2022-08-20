@@ -1,6 +1,4 @@
 import java.util.Arrays;
-//Siya Kamat
-//period 7
 
 class Main {
   public static void main(String[] args) {
